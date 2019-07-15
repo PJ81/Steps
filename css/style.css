@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Quantico');
+
+* {
+  margin: 0;
+  border: 0;
+}
+
+body {
+  text-align: center;
+  background-color: #333;
+}
+
+
+canvas {
+  margin: 50px auto;
+  background-color: #222;
+  border: 2px solid #000;
+}
